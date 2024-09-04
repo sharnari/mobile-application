@@ -27,3 +27,4 @@ a
 eas build -p android --profile preview
 
 ```
+Для локальной сборки добавьте флаг ```--local```
