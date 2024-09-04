@@ -24,5 +24,6 @@ a
 
 Для того чтобы собрать приложение в готовый apk файл
 ```bash
-eas build --platform android
+eas build -p android --profile preview
+
 ```
